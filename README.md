@@ -1,2 +1,2 @@
 # Parser
-new[
+new
