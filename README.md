@@ -1,4 +1,11 @@
+Коды ошибок
+instagram
+
+https://developer.mozilla.org/ru/docs/Web/HTTP/Status/429
+<hr>
+
 Видос на middleware 2,23
+<hr>
 https://gbcdn.mrgcdn.ru/uploads/record/79599/attachment/b7dfb41da15f95a007e3a7bb4c329f3b.mp4
 
 
