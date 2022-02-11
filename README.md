@@ -38,7 +38,7 @@ I'm trying to run a scraper of which the output log ends as follows:
 ![image](https://user-images.githubusercontent.com/82442469/153016945-8c71316c-1874-453a-abfd-fb3608bf582e.png)
 
 
-
+ 
 
 
 
