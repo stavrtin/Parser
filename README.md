@@ -1,6 +1,6 @@
 Коды ошибок
 instagram
-
+ц
 https://developer.mozilla.org/ru/docs/Web/HTTP/Status/429
 <hr>
 
