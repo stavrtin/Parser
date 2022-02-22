@@ -1,5 +1,5 @@
 Коды ошибок 
-instagram
+instagram 
 
 https://developer.mozilla.org/ru/docs/Web/HTTP/Status/429
 <hr>
