@@ -1,3 +1,9 @@
+Документация Скрапи
+https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#std-setting-RETRY_TIMES
+
+<hr>
+
+
 проект по генерации изображений:
 https://github.com/apchenstu/sofgan
 <hr>
