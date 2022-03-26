@@ -23,7 +23,7 @@ https://gbcdn.mrgcdn.ru/uploads/record/79599/attachment/b7dfb41da15f95a007e3a7bb
 <hr>
  
 
-
+ 
 Ссылка на реализацию прокси внутри скрапи
 https://github.com/scrapy-plugins/scrapy-zyte-smartproxy
 
