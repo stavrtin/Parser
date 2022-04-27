@@ -6,7 +6,7 @@ Pluging
 https://github.com/scrapy-plugins
 <hr>
   
-   
+    
 проект по генерации изображений:
 https://github.com/apchenstu/sofgan
 <hr>
