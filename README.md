@@ -1,3 +1,7 @@
+Сайт бесплатных СМС
+https://sms-reg.com/free.html#79633429553
+
+
 Документация Скрапи
 https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#std-setting-RETRY_TIMES
     
