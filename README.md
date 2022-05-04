@@ -1,7 +1,7 @@
 Документация Скрапи
 https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#std-setting-RETRY_TIMES
     
-Pluging 
+Pluging  
    
 https://github.com/scrapy-plugins
 <hr>
