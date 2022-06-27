@@ -64,7 +64,7 @@ https://github.com/scrapy-plugins/scrapy-zyte-smartproxy
 # Parser
 Добрый день! Медленно не торопясь собираем) А вообще идеальный вариант - будет реализовать middleware с остановкой работы паука на час, если получаем 429 ошибку. Пример здесь: https://stackoverflow.com/questions/43630434/how-to-handle-a-429-too-many-requests-response-in-scrapy
 Stack Overflow
-.
+.   
 
 08/02/22
 А ну это нормально)) 5-6 тысяч это еще неплохой результат. Бывает через пару сотен уже блокировку вытаскивает) Блокирует как? на время, или прям надо зайти в аккаунт и ввести код проверки, чтобы разблокировать?Если просто на вермя, то здесь можно попробовать реализовать middleware по образцу из статьи: https://stackoverflow.com/questions/43630434/how-to-handle-a-429-too-many-requests-response-in-scrapy
