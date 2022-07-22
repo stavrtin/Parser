@@ -12,7 +12,7 @@ https://pythobyte.com/how-to-extract-text-from-images-ocr-in-python-using-opencv
 
 https://www.youtube.com/watch?v=UPjTYorn59g
  
-                  
+                    
      
 -------------------------------------------------------------
 
