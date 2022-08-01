@@ -27,7 +27,7 @@ fZDUuTyBwmpSeRtvacRd
 https://receive-smss.com/sms/79366199804/
 wb+
 
-  fg
+  fg  
             
      
 ### Base_Python
