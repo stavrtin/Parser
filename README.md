@@ -7,7 +7,7 @@ with open('text_from_tlg.txt') as f:
 -------------------------------------------------------------
   ##### обнаружение текста с фотографий
 https://nuancesprog.ru/p/15535/
-
+ 
 https://pythobyte.com/how-to-extract-text-from-images-ocr-in-python-using-opencv-and-easyocr-5f137827/
 
 https://www.youtube.com/watch?v=UPjTYorn59g
